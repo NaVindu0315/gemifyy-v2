@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028909778495",
+    "project_id": "gemifyy-19419",
+    "storage_bucket": "gemifyy-19419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028909778495:android:327e2e871541a26640da8a",
+        "android_client_info": {
+          "package_name": "com.navindu.gemifyyv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028909778495-5qvsm5t8tniqon3idblq9lkum610a3j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPrY1JHIqXo9DzB0r4njkNEWVKZolv2jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028909778495-5qvsm5t8tniqon3idblq9lkum610a3j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
